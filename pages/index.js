@@ -4,7 +4,19 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>DeployZeroLab - AI & Deep Learning Solutions</title>
+        <title>DeployZeroLab - AI & Deep Learning Solutions | Zero to Production</title>
+        <meta name="description" content="Deploy AI and deep learning models from zero to production in minutes. Support for PyTorch, TensorFlow, computer vision, NLP, and edge deployment." />
+        <meta name="keywords" content="AI deployment, machine learning, deep learning, PyTorch, TensorFlow, computer vision, NLP, edge deployment, auto-scaling" />
+        <meta name="author" content="DeployZeroLab" />
+        <meta property="og:title" content="DeployZeroLab - AI & Deep Learning Solutions" />
+        <meta property="og:description" content="Deploy AI and deep learning models from zero to production in minutes" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://deployzerolab.github.io/DeployZeroLab/" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="DeployZeroLab - AI & Deep Learning Solutions" />
+        <meta name="twitter:description" content="Deploy AI and deep learning models from zero to production in minutes" />
+        <link rel="canonical" href="https://deployzerolab.github.io/DeployZeroLab/" />
+        <meta name="robots" content="index, follow" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       
